@@ -1,0 +1,2 @@
+email=your_google_account_email@gmail.com
+password=your_password
